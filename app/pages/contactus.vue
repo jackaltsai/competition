@@ -89,7 +89,7 @@
               <!-- CTA Section -->
               <div class="mt-10 p-6 bg-gradient-to-r from-blue-500/10 to-purple-500/10 dark:from-blue-500/20 dark:to-purple-500/20 rounded-2xl border border-blue-200/50 dark:border-blue-700/50">
                 <p class="text-center text-gray-700 dark:text-gray-300 font-medium">
-                  📞 立即聯繫我們，讓我們為您提供最佳服務！
+                  📞 立即聯繫我們！
                 </p>
               </div>
             </div>
