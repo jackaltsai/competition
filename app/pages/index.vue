@@ -7,7 +7,7 @@
           <img
             src="/hdut_icon.png"
             alt="icon"
-            class="w-18 h-18 md:w-14 md:h-14"
+            class="w-14 h-14 md:w-14 md:h-14"
           />
           <h1 class="text-4xl md:text-4xl font-bold text-black font-title">
             宏國德霖科技大學
