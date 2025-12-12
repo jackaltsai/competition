@@ -12,7 +12,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'title': ['cursive', 'sans-serif'],
+        'title': ['"GenYoMin TW"', '"GenSenRounded TW"', '"jf-openhuninn-2.0"', 'sans-serif'],
         'body': ['"Noto Sans TC"', '"Source Han Sans TC"', 'sans-serif'],
       },
     },
