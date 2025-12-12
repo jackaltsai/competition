@@ -95,3 +95,10 @@
     </div>
   </div>
 </template>
+
+<script setup>
+useSeoMeta({
+  title: '宏國德霖科技大學 AI 基礎應用與創意繪圖競賽人才培育營',
+  description: '2025 AI 基礎應用與創意繪圖競賽，歡迎全國國高中生學生參加'
+})
+</script>
