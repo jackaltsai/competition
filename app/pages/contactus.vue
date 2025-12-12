@@ -1,4 +1,20 @@
 <template>
+    <NuxtLink
+  to="/"
+  class="absolute left-6 top-4 inline-flex items-center gap-2
+         px-4 py-2 bg-white/80 backdrop-blur-sm rounded-full
+         text-slate-700 hover:text-blue-600 hover:bg-white
+         transition-all duration-300 shadow-sm
+         border border-slate-200/50 z-10"
+>
+  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+  </svg>
+  返回首頁
+</NuxtLink>
+
+
   <div class="relative min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 dark:from-gray-900 dark:via-gray-800 dark:to-purple-900">
     <!-- Background Decorations -->
     <div class="absolute inset-0 overflow-hidden">
