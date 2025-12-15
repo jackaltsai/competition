@@ -103,11 +103,27 @@
               </div>
 
               <!-- CTA Section -->
-              <div class="mt-10 p-6 bg-gradient-to-r from-blue-500/10 to-purple-500/10 dark:from-blue-500/20 dark:to-purple-500/20 rounded-2xl border border-blue-200/50 dark:border-blue-700/50">
-                <p class="text-center text-gray-700 dark:text-gray-300 font-medium">
-                  📞 立即聯繫我們！
-                </p>
-              </div>
+              <div
+  class="mt-10 p-6 grid grid-cols-1 md:grid-cols-2 gap-6 items-center
+         bg-gradient-to-r from-blue-500/10 to-purple-500/10
+         rounded-2xl border border-blue-200/50"
+>
+  <div class="text-center md:text-left">
+    <p class="text-lg font-semibold text-gray-800">
+      📞 加入 LINE 官方帳號
+    </p>
+    <p class="mt-2 text-gray-600 text-sm">
+      即時諮詢｜報名協助
+    </p>
+  </div>
+
+  <img
+    src="/M_080cwhgh_GW.png"
+    class="mx-auto w-36 h-36 rounded-xl bg-white p-3 shadow"
+    alt="LINE QR Code"
+  />
+</div>
+
             </div>
           </div>
         </div>
@@ -122,7 +138,7 @@
                 <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-1">我們的位置</h3>
                 <p class="text-sm text-gray-600 dark:text-gray-400">點擊地圖查看詳細位置</p>
               </div>
-              
+
               <!-- Map with Enhanced Styling -->
               <div class="relative rounded-2xl overflow-hidden shadow-xl border-4 border-white/50 dark:border-gray-700/50">
                 <iframe
