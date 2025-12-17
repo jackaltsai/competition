@@ -208,19 +208,19 @@
               <ul class="space-y-3 text-slate-700">
                 <li class="flex items-center gap-3 p-2 bg-yellow-100/70 rounded-lg">
                   <span class="text-2xl">🥇</span>
-                  <span>第一名：價值約 NT$1,500 商品 2 份</span>
+                  <span>第一名：價值約 NT$1,500 等值商品 2 份</span>
                 </li>
                 <li class="flex items-center gap-3 p-2 bg-gray-100/70 rounded-lg">
                   <span class="text-2xl">🥈</span>
-                  <span>第二名：價值約 NT$700 商品 2 份</span>
+                  <span>第二名：價值約 NT$700 等值商品 2 份</span>
                 </li>
                 <li class="flex items-center gap-3 p-2 bg-orange-100/70 rounded-lg">
                   <span class="text-2xl">🥉</span>
-                  <span>第三名：價值約 NT$400 商品 2 份</span>
+                  <span>第三名：價值約 NT$400 等值商品 2 份</span>
                 </li>
                 <li class="flex items-center gap-3 p-2 bg-blue-100/70 rounded-lg">
                   <span class="text-2xl">🏆</span>
-                  <span>佳作三名：價值約 NT$200 商品各 2 份</span>
+                  <span>佳作三組：價值約 NT400 等值商品</span>
                 </li>
               </ul>
             </div>
@@ -235,19 +235,19 @@
               <ul class="space-y-3 text-slate-700">
                 <li class="flex items-center gap-3 p-2 bg-yellow-100/70 rounded-lg">
                   <span class="text-2xl">🥇</span>
-                  <span>第一名：價值約 NT$1,500 商品 2 份</span>
+                  <span>第一名：價值約 NT$1,500 等值商品 2 份</span>
                 </li>
                 <li class="flex items-center gap-3 p-2 bg-gray-100/70 rounded-lg">
                   <span class="text-2xl">🥈</span>
-                  <span>第二名：價值約 NT$700 商品 2 份</span>
+                  <span>第二名：價值約 NT$700 等值商品 2 份</span>
                 </li>
                 <li class="flex items-center gap-3 p-2 bg-orange-100/70 rounded-lg">
                   <span class="text-2xl">🥉</span>
-                  <span>第三名：價值約 NT$400 商品 2 份</span>
+                  <span>第三名：價值約 NT$400 等值商品 2 份</span>
                 </li>
                 <li class="flex items-center gap-3 p-2 bg-purple-100/70 rounded-lg">
                   <span class="text-2xl">🏆</span>
-                  <span>佳作三名：價值約 NT$200 商品各 2 份</span>
+                  <span>佳作三組：價值約 NT$400 等值商品</span>
                 </li>
               </ul>
             </div>
