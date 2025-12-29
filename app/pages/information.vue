@@ -175,7 +175,7 @@
               <div class="w-6 h-6 bg-rose-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">5</span>
               </div>
-              <span>參賽費用：免費（需自備筆電，全程參與）</span>
+              <span>參賽費用：免費（需自備筆電或平板或手機，全程參與）</span>
             </li>
             <li class="flex items-start gap-3 p-3 bg-indigo-50/50 rounded-lg border border-indigo-100">
               <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
