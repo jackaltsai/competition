@@ -83,7 +83,7 @@
       <!-- Competition Highlights -->
       <div class="mt-16 text-center">
         <div class="bg-white/5 backdrop-blur-sm rounded-lg p-8 max-w-2xl mx-auto">
-          <h3 class="text-2xl font-bold text-black mb-4 font-title">📅 報名截止日期: 中華民國115年1月16日 17:00時止</h3>
+          <h3 class="text-2xl font-bold text-black mb-4 font-title">📅 報名截止日期: 中華民國115年1月19日 10:00時止</h3>
           <!-- <ul class="text-gray-300 space-y-2 font-body">
             <li>📅 報名截止日期: 中華民國115年1月19日 10:00時止</li>
           </ul> -->
