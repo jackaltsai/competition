@@ -77,37 +77,37 @@
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">08:00 – 08:10</td>
                   <td class="py-4 px-6">報到</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">08:10 – 08:20</td>
                   <td class="py-4 px-6">開幕式暨長官致詞</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">08:20 – 09:50</td>
                   <td class="py-4 px-6">人工智慧基礎概念介紹與趨勢應用</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
                   <td class="py-4 px-6 font-medium text-amber-600">09:50 – 10:00</td>
                   <td class="py-4 px-6 text-amber-700">中場休息</td>
-                  <td class="py-4 px-6">—</td>
+                  <td class="py-4 px-6">-</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">10:00 – 12:00</td>
                   <td class="py-4 px-6">AI 生成工具操作與分組練習</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
                   <td class="py-4 px-6 font-medium text-green-600">12:00 – 13:00</td>
                   <td class="py-4 px-6 text-green-700">午餐</td>
-                  <td class="py-4 px-6">—</td>
+                  <td class="py-4 px-6">罕見206，罕見207</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:50</td>
                   <td class="py-4 px-6">主題創作時間</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6">高中組：罕見 306，國中組：罕見309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
                   <td class="py-4 px-6 font-medium text-amber-600">13:50 – 14:00</td>
@@ -119,7 +119,7 @@
                   <td class="py-4 px-6 text-purple-700 font-medium">
                     競賽－創意說故事大賽（每組 3 分鐘）
                   </td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6">高中組：罕見 306，國中組：罕見309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">15:30 – 16:30</td>
@@ -129,7 +129,7 @@
                 <tr class="hover:bg-blue-50/50 transition-colors bg-rose-50/50">
                   <td class="py-4 px-6 font-medium text-rose-600">16:30 – 17:00</td>
                   <td class="py-4 px-6 text-rose-700 font-medium">頒獎典禮</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6">罕見 309</td>
                 </tr>
               </tbody>
             </table>
