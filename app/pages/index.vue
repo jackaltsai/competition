@@ -25,7 +25,7 @@
       <!-- Navigation Cards -->
       <div class="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
   <NuxtLink
-  to="https://forms.gle/ocQ72BLpih1QWiU36"
+  to="/contactus"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
          transition-all duration-300 ease-out
          hover:bg-red-600/20 hover:scale-[1.03] hover:shadow-xl"
@@ -83,10 +83,10 @@
       <!-- Competition Highlights -->
       <div class="mt-16 text-center">
         <div class="bg-white/5 backdrop-blur-sm rounded-lg p-8 max-w-2xl mx-auto">
-          <h3 class="text-2xl font-bold text-black mb-4 font-title">📅 報名截止日期: 中華民國115年1月19日 10:00時止</h3>
-          <!-- <ul class="text-gray-300 space-y-2 font-body">
-            <li>📅 報名截止日期: 中華民國115年1月19日 10:00時止</li>
-          </ul> -->
+          <h3 class="text-2xl font-bold text-black mb-4 font-title">感謝大家熱切報名，目前已達目標人數，報名已截止！</h3>
+          <ul class="text-gray-500 space-y-2 font-body">
+            <li>如有需要協助，請洽承辦人：（02）2273-3567分機814，專案助理蔡先生。</li>
+          </ul>
         </div>
       </div>
     </div>
