@@ -83,7 +83,7 @@
       <!-- Competition Highlights -->
       <div class="mt-16 text-center">
         <div class="bg-white/5 backdrop-blur-sm rounded-lg p-8 max-w-2xl mx-auto">
-          <h3 class="text-2xl font-bold text-black mb-4 font-title">感謝大家熱切報名，目前已達目標人數，報名已截止！</h3>
+          <h3 class="text-2xl font-bold text-black mb-4 font-title">感謝大家熱切報名，第一梯次目前已達目標人數，報名已截止！因應熱烈需求，擬於3月28日再加開一場研習，報名表單近期再開，請與我們聯絡。</h3>
           <ul class="text-gray-500 space-y-2 font-body">
             <li>如有需要協助，請洽承辦人：（02）2273-3567分機814，專案助理蔡先生。</li>
           </ul>

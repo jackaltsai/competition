@@ -102,12 +102,12 @@
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
                   <td class="py-4 px-6 font-medium text-green-600">12:00 – 13:00</td>
                   <td class="py-4 px-6 text-green-700">午餐</td>
-                  <td class="py-4 px-6">罕見206，罕見207</td>
+                  <td class="py-4 px-6">罕見201，罕見302，罕見306</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:50</td>
                   <td class="py-4 px-6">主題創作時間</td>
-                  <td class="py-4 px-6">高中組：罕見 306，國中組：罕見309</td>
+                  <td class="py-4 px-6">罕見309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
                   <td class="py-4 px-6 font-medium text-amber-600">13:50 – 14:00</td>
