@@ -24,6 +24,8 @@
 
       <!-- Navigation Cards -->
       <div class="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+
+  <!--
   <NuxtLink
   to="/student"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
@@ -40,7 +42,9 @@
     組別公告
   </h3>
 </NuxtLink>
+-->
 
+<!--
 <NuxtLink
   to="https://drive.google.com/drive/folders/1Sp6m4MPdZECWWoo_FuZ4jjTe0WnWql8e?usp=drive_link"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
@@ -57,7 +61,9 @@
     高中組
   </h3>
 </NuxtLink>
+-->
 
+<!--
 <NuxtLink
   to="https://drive.google.com/drive/folders/1ZOALEAej6YMwFcI5ufDawpIMiKbDxPPC?usp=drive_link"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
@@ -74,9 +80,10 @@
     國中組
   </h3>
 </NuxtLink>
+-->
 
 <NuxtLink
-  to="/contactus"
+  to="/"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
          transition-all duration-300 ease-out
          hover:bg-red-600/20 hover:scale-[1.03] hover:shadow-xl"
@@ -92,6 +99,7 @@
   </h3>
 </NuxtLink>
 
+<!--
 <NuxtLink
   to="/information"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
@@ -108,6 +116,8 @@
     比賽說明
   </h3>
 </NuxtLink>
+-->
+
 <NuxtLink
   to="/contactus"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
