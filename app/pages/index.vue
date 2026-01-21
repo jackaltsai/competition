@@ -118,6 +118,25 @@
 </NuxtLink>
 -->
 
+
+<NuxtLink
+  to="https://drive.google.com/drive/folders/1NQfFEwNpYweB_wYgBQm3UhilB8IF9dvT?usp=drive_link"
+  class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
+         transition-all duration-300 ease-out
+         hover:bg-red-600/20 hover:scale-[1.03] hover:shadow-xl"
+>
+  <h3
+    class="text-2xl font-semibold mb-2 font-title
+           text-fuchsia-500
+           transition-all duration-300 ease-out
+           group-hover:text-fuchsia-600
+           group-hover:scale-[1.05]"
+  >
+    活動集錦
+  </h3>
+</NuxtLink>
+
+
 <NuxtLink
   to="/contactus"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
