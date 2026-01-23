@@ -83,7 +83,7 @@
 -->
 
 <NuxtLink
-  to="/"
+  to="https://docs.google.com/forms/d/e/1FAIpQLSd64aIT858jLZZBXXvuOjUxGoStJKyb7QigkIG59zaqytaOwA/viewform?pli=1"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
          transition-all duration-300 ease-out
          hover:bg-red-600/20 hover:scale-[1.03] hover:shadow-xl"
