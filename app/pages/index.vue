@@ -17,7 +17,7 @@
           Hungkuo Delin University of Technology
         </p>
         <h2 class="text-4xl md:text-4xl font-black text-purple-500 mb-6 font-title">
-          AI基礎應用與創意繪圖競賽人才培育營
+          AI基礎應用與工具實作研習
         </h2>
 
       </header>
@@ -229,12 +229,12 @@
 import { ref, onMounted, onUnmounted } from 'vue'
 
 useSeoMeta({
-  title: '宏國德霖科技大學 AI 基礎應用與創意繪圖競賽人才培育營',
-  description: '2025 AI 基礎應用與創意繪圖競賽，歡迎全國國高中生學生參加'
+  title: '宏國德霖科技大學 AI 基礎應用與工具實作研習',
+  description: '2025 AI 基礎應用與與工具實作研習，歡迎全國國高中生學生參加'
 })
 
 // Carousel data and state
-const images = ['/1.JPG', '/2.JPG', '/3.JPG', '/5.JPG', '/6.JPG', '/8.JPG', '/10.jpg', '/11.jpg', '/12.jpg', '/13.jpg']
+const images = ['/14.jpg', ]
 const currentSlide = ref(0)
 let intervalId = null
 
