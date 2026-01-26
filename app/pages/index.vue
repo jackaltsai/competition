@@ -234,7 +234,7 @@ useSeoMeta({
 })
 
 // Carousel data and state
-const images = ['/1.JPG', '/2.JPG', '/3.JPG', '/5.JPG', '/6.JPG', '/8.JPG']
+const images = ['/1.JPG', '/2.JPG', '/3.JPG', '/5.JPG', '/6.JPG', '/8.JPG', , '/10.JPG', '/11.JPG', '/12.JPG', '/13.JPG']
 const currentSlide = ref(0)
 let intervalId = null
 
