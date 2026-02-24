@@ -151,7 +151,7 @@
   </h3>
 </NuxtLink>
 
-<!--
+
 <NuxtLink
   to="/information"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
@@ -165,12 +165,11 @@
            group-hover:text-fuchsia-600
            group-hover:scale-[1.05]"
   >
-    比賽說明
+    當日議程
   </h3>
 </NuxtLink>
--->
 
-
+<!--
 <NuxtLink
   to="https://drive.google.com/drive/folders/1NQfFEwNpYweB_wYgBQm3UhilB8IF9dvT?usp=drive_link"
   class="group bg-white/10 backdrop-blur-sm rounded-lg p-6 text-center
@@ -187,7 +186,7 @@
     活動集錦
   </h3>
 </NuxtLink>
-
+-->
 
 <NuxtLink
   to="/contactus"
@@ -215,8 +214,8 @@
       <!-- Competition Highlights -->
       <div class="mt-16 text-center">
         <div class="bg-white/5 backdrop-blur-sm rounded-lg p-8 max-w-2xl mx-auto">
-          <h3 class="text-2xl font-bold text-black mb-4 font-title">第二梯次研習活動於3月28日已開放報名。第一梯次活動集錦照片可自行下載。</h3>
-          <ul class="text-gray-500 space-y-2 font-body">
+          <h3 class="text-2xl font-bold text-black mb-4 font-title">第二梯次研習活動於3月28日已開放報名。</h3>
+          <ul class="text-black space-y-2 font-body">
             <li>如有需要協助，請洽承辦人：（02）2273-3567分機814，專案助理蔡先生。</li>
           </ul>
         </div>

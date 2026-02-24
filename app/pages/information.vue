@@ -23,7 +23,7 @@
           <h1 class="text-5xl md:text-6xl font-bold text-slate-800 mb-6 leading-tight">
 
             <span class="block bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              AI 基礎應用與創意繪圖競賽人才培育營
+              AI 基礎應用與工具實作研習
             </span>
           </h1>
           <p class="text-xl text-slate-600 font-medium">
@@ -45,9 +45,8 @@
           </div>
           <p class="text-slate-700 leading-relaxed text-lg">
             本校餐旅學院為提升學校於鄰近國高中之能見度，並推廣人工智慧學習，
-            特別邀請新北市國高中學生組隊蒞校參與 AI 培訓活動。
-            透過「AI 基礎應用與創意繪圖競賽人才培育營」，協助學生建立基礎 AI
-            認知能力，培養創意思維與數位敘事能力，同時強化未來招生與學習連結。
+            特別邀請新北市國高中學生蒞校參與 AI 培訓活動。強化基礎AI認知能力，
+            特舉辦「AI 基礎應用與工具實作研習」，以強化未來招生與學習連結。
           </p>
         </section>
 
@@ -60,7 +59,7 @@
               </svg>
             </div>
             <h2 class="text-3xl font-bold text-slate-800">
-              活動流程與議程（1 月 21 日）
+              活動流程與議程（3 月 28 日）
             </h2>
           </div>
 
@@ -75,61 +74,35 @@
               </thead>
               <tbody class="text-slate-700">
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">08:00 – 08:10</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">12:50 – 13:00</td>
                   <td class="py-4 px-6">報到</td>
-                  <td class="py-4 px-6">罕見 309</td>
+                  <td class="py-4 px-6">罕見 306</td>
                 </tr>
-                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">08:10 – 08:20</td>
-                  <td class="py-4 px-6">開幕式暨長官致詞</td>
-                  <td class="py-4 px-6">罕見 309</td>
-                </tr>
-                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">08:20 – 09:50</td>
-                  <td class="py-4 px-6">人工智慧基礎概念介紹與趨勢應用</td>
-                  <td class="py-4 px-6">罕見 309</td>
-                </tr>
-                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
-                  <td class="py-4 px-6 font-medium text-amber-600">09:50 – 10:00</td>
-                  <td class="py-4 px-6 text-amber-700">中場休息</td>
-                  <td class="py-4 px-6">-</td>
-                </tr>
-                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">10:00 – 12:00</td>
-                  <td class="py-4 px-6">AI 生成工具操作與分組練習</td>
-                  <td class="py-4 px-6">罕見 309</td>
-                </tr>
-                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
-                  <td class="py-4 px-6 font-medium text-green-600">12:00 – 13:00</td>
-                  <td class="py-4 px-6 text-green-700">午餐</td>
-                  <td class="py-4 px-6">罕見201，罕見302，罕見306</td>
-                </tr>
+
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:50</td>
-                  <td class="py-4 px-6">主題創作時間</td>
-                  <td class="py-4 px-6">罕見309</td>
+                  <td class="py-4 px-6">人工智慧基礎概念介紹與趨勢應用<br>賀嘉生教授中原大學資訊工程學系（國立臺灣大學電機工程博士）<br>或其他具備AI專長領域講師</td>
+                  <td class="py-4 px-6">罕見 306</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
                   <td class="py-4 px-6 font-medium text-amber-600">13:50 – 14:00</td>
-                  <td class="py-4 px-6 text-amber-700">休息時間</td>
-                  <td class="py-4 px-6">—</td>
-                </tr>
-                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-purple-50/50">
-                  <td class="py-4 px-6 font-medium text-purple-600">14:00 – 15:30</td>
-                  <td class="py-4 px-6 text-purple-700 font-medium">
-                    競賽－創意說故事大賽（每組 3 分鐘）
-                  </td>
-                  <td class="py-4 px-6">高中組：罕見 306，國中組：罕見309</td>
+                  <td class="py-4 px-6 text-amber-700">休息</td>
+                  <td class="py-4 px-6">-</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">15:30 – 16:30</td>
-                  <td class="py-4 px-6">罕見樓特色教室參訪</td>
-                  <td class="py-4 px-6">罕見樓</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">14:00 – 14:50</td>
+                  <td class="py-4 px-6">AI 生成工具介紹Gemini/ChatGPT/NotebookLM<br>賀嘉生教授中原大學資訊工程學系（國立臺灣大學電機工程博士）<br>或其他具備AI專長領域講師</td>
+                  <td class="py-4 px-6">罕見 306</td>
                 </tr>
-                <tr class="hover:bg-blue-50/50 transition-colors bg-rose-50/50">
-                  <td class="py-4 px-6 font-medium text-rose-600">16:30 – 17:00</td>
-                  <td class="py-4 px-6 text-rose-700 font-medium">頒獎典禮</td>
-                  <td class="py-4 px-6">罕見 309</td>
+                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
+                  <td class="py-4 px-6 font-medium text-green-600">14:50 – 15:00</td>
+                  <td class="py-4 px-6 text-green-700">休息</td>
+                  <td class="py-4 px-6">-</td>
+                </tr>
+                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
+                  <td class="py-4 px-6 font-medium text-blue-600">15:00 – 16:00</td>
+                  <td class="py-4 px-6">AI生成工具實務操作練習</td>
+                  <td class="py-4 px-6">罕見306</td>
                 </tr>
               </tbody>
             </table>
@@ -144,26 +117,26 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
               </svg>
             </div>
-            <h2 class="text-3xl font-bold text-slate-800">競賽規則</h2>
+            <h2 class="text-3xl font-bold text-slate-800">跨維度敘事導向</h2>
           </div>
           <ul class="text-slate-700 space-y-4">
             <li class="flex items-start gap-3 p-3 bg-blue-50/50 rounded-lg border border-blue-100">
               <div class="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">1</span>
               </div>
-              <span>競賽主題：「生成式 AI 創意繪圖敘事力大賽」</span>
+              <span>主題：「生成式 AI 創意繪圖敘事」</span>
             </li>
             <li class="flex items-start gap-3 p-3 bg-purple-50/50 rounded-lg border border-purple-100">
               <div class="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">2</span>
               </div>
-              <span>參賽方式：每組2員成員為限，以 AI 生成圖片，並依圖片內容進行設計理念敘述</span>
+              <span>實作方式：以 AI 生成圖片，並依此圖敘明設計的理念與構思</span>
             </li>
             <li class="flex items-start gap-3 p-3 bg-green-50/50 rounded-lg border border-green-100">
               <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">3</span>
               </div>
-              <span>發表流程：作品上傳雲端 → 現場投影發表（每組 2–3 分鐘）</span>
+              <span>發表流程：作品上傳雲端 → 現場投影發表</span>
             </li>
             <li class="flex items-start gap-3 p-3 bg-orange-50/50 rounded-lg border border-orange-100">
               <div class="w-6 h-6 bg-orange-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
@@ -181,12 +154,12 @@
               <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">6</span>
               </div>
-              <span>完訓可獲頒 8 小時「AI 人才培育營時數證明」</span>
+              <span>完訓可獲頒 3 小時「AI 基礎應用與工具實作研習證明」</span>
             </li>
           </ul>
         </section>
 
-        <!-- 頒獎內容 -->
+        <!-- 頒獎內容
         <section class="bg-white/70 backdrop-blur-md rounded-2xl p-10 shadow-xl border border-white/50 hover:shadow-2xl transition-all duration-300">
           <div class="flex items-center gap-3 mb-8">
             <div class="w-10 h-10 bg-gradient-to-r from-yellow-500 to-orange-500 rounded-xl flex items-center justify-center">
@@ -252,7 +225,7 @@
               </ul>
             </div>
           </div>
-        </section>
+        </section>-->
       </div>
     </div>
   </div>
