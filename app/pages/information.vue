@@ -132,27 +132,27 @@
               </div>
               <span>實作方式：以 AI 生成圖片，並依此圖敘明設計的理念與構思</span>
             </li>
-            <li class="flex items-start gap-3 p-3 bg-green-50/50 rounded-lg border border-green-100">
+            <!-- <li class="flex items-start gap-3 p-3 bg-green-50/50 rounded-lg border border-green-100">
               <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">3</span>
               </div>
               <span>發表流程：作品上傳雲端 → 現場投影發表</span>
-            </li>
+            </li> -->
             <li class="flex items-start gap-3 p-3 bg-orange-50/50 rounded-lg border border-orange-100">
               <div class="w-6 h-6 bg-orange-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span class="text-white text-sm font-bold">4</span>
+                <span class="text-white text-sm font-bold">3</span>
               </div>
               <span>繳交格式：PDF 電子檔（檔名：學校校名_年級_組員姓名）</span>
             </li>
             <li class="flex items-start gap-3 p-3 bg-rose-50/50 rounded-lg border border-rose-100">
               <div class="w-6 h-6 bg-rose-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span class="text-white text-sm font-bold">5</span>
+                <span class="text-white text-sm font-bold">4</span>
               </div>
               <span>參賽費用：免費（需自備筆電或平板或手機，全程參與）</span>
             </li>
             <li class="flex items-start gap-3 p-3 bg-indigo-50/50 rounded-lg border border-indigo-100">
               <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span class="text-white text-sm font-bold">6</span>
+                <span class="text-white text-sm font-bold">5</span>
               </div>
               <span>完訓可獲頒 3 小時「AI 基礎應用與工具實作研習證明」</span>
             </li>
