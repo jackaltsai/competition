@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  compatibilityDate: '2025-07-15',
+  compatibilityDate: '2026-03-10',
   devtools: { enabled: false },
   app: {
     head: {
@@ -13,9 +13,7 @@ export default defineNuxtConfig({
         { name: 'google-site-verification', content: 'FsjNlKnswzEpyf5_ZtoTvqej_32UjYbcyWv2alm1zZQ' },
       ],},
   },
-  modules: ['@nuxthub/core-nightly', '@nuxthub/core', '@nuxtjs/tailwindcss'],
+  modules: ['@nuxthub/core', '@nuxtjs/tailwindcss'],
   hub: {},
-  nitro: {
-    preset: 'cloudflare-pages',
-  },
+  
 })
