@@ -81,7 +81,7 @@
 
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:50</td>
-                  <td class="py-4 px-6">人工智慧基礎概念與AI生成工具介紹<br>蘇金豆院長(國立臺灣大學化學所理學博士)</td>
+                  <td class="py-4 px-6">人工智慧基礎概念與AI生成工具介紹<br>蘇金豆教授兼院長/國立臺灣大學化學所理學博士</td>
                   <td class="py-4 px-6">罕見 306</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
@@ -91,7 +91,7 @@
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">14:00 – 14:50</td>
-                  <td class="py-4 px-6">AI生成工具實務操作練習<br>蘇金豆院長(國立臺灣大學化學所理學博士)</td>
+                  <td class="py-4 px-6">AI生成工具實務操作練習<br>蘇金豆教授兼院長/國立臺灣大學化學所理學博士</td>
                   <td class="py-4 px-6">罕見 306</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
@@ -160,7 +160,13 @@
               <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">5</span>
               </div>
-              <span>頒獎前三名表現優異同學，獎狀乙幀和獎品，鼓勵參加的同學。</span>
+              <span>頒獎前三名表現優異同學，獎狀乙幀和獎品乙份。</span>
+            </li>
+            <li class="flex items-start gap-3 p-3 bg-indigo-50/50 rounded-lg border border-indigo-100">
+              <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
+                <span class="text-white text-sm font-bold">5</span>
+              </div>
+              <span>報名人數未達20名，將會取消此次活動。</span>
             </li>
           </ul>
         </section>
