@@ -81,7 +81,7 @@
 
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:50</td>
-                  <td class="py-4 px-6">人工智慧基礎概念介紹與趨勢應用<br>賀嘉生教授中原大學資訊工程學系（國立臺灣大學電機工程博士）<br>或其他具備AI專長領域講師</td>
+                  <td class="py-4 px-6">人工智慧基礎概念與AI生成工具介紹<br>蘇金豆院長(國立臺灣大學化學所理學博士)</td>
                   <td class="py-4 px-6">罕見 306</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
@@ -91,7 +91,7 @@
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">14:00 – 14:50</td>
-                  <td class="py-4 px-6">AI 生成工具介紹Gemini/ChatGPT/NotebookLM<br>賀嘉生教授中原大學資訊工程學系（國立臺灣大學電機工程博士）<br>或其他具備AI專長領域講師</td>
+                  <td class="py-4 px-6">AI生成工具實務操作練習<br>蘇金豆院長(國立臺灣大學化學所理學博士)</td>
                   <td class="py-4 px-6">罕見 306</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
@@ -101,7 +101,7 @@
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">15:00 – 16:00</td>
-                  <td class="py-4 px-6">AI生成工具實務操作練習</td>
+                  <td class="py-4 px-6">發表與頒獎</td>
                   <td class="py-4 px-6">罕見306</td>
                 </tr>
               </tbody>
@@ -132,12 +132,12 @@
               </div>
               <span>實作方式：以 AI 生成圖片，並依此圖敘明設計的理念與構思</span>
             </li>
-            <!-- <li class="flex items-start gap-3 p-3 bg-green-50/50 rounded-lg border border-green-100">
+            <li class="flex items-start gap-3 p-3 bg-green-50/50 rounded-lg border border-green-100">
               <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">3</span>
               </div>
               <span>發表流程：作品上傳雲端 → 現場投影發表</span>
-            </li> -->
+            </li>
             <li class="flex items-start gap-3 p-3 bg-orange-50/50 rounded-lg border border-orange-100">
               <div class="w-6 h-6 bg-orange-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">3</span>
@@ -155,6 +155,12 @@
                 <span class="text-white text-sm font-bold">5</span>
               </div>
               <span>完訓可獲頒 3 小時「AI 基礎應用與工具實作研習證明」</span>
+            </li>
+            <li class="flex items-start gap-3 p-3 bg-indigo-50/50 rounded-lg border border-indigo-100">
+              <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
+                <span class="text-white text-sm font-bold">5</span>
+              </div>
+              <span>頒獎前三名表現優異同學，獎狀乙幀和獎品，鼓勵參加的同學。</span>
             </li>
           </ul>
         </section>

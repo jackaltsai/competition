@@ -14,6 +14,13 @@ export default defineNuxtConfig({
       ],},
   },
   modules: ['@nuxthub/core', '@nuxtjs/tailwindcss'],
+  nitro: {
+    preset: "cloudflare_module",
+    cloudflare: {
+      deployConfig: true,
+      nodeCompat: true
+    }
+  },
   hub: {},
-  
+
 })
