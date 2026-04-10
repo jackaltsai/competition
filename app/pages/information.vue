@@ -44,9 +44,7 @@
             <h2 class="text-3xl font-bold text-slate-800">活動目的</h2>
           </div>
           <p class="text-slate-700 leading-relaxed text-lg">
-            本校餐旅學院為提升學校於鄰近國高中之能見度，並推廣人工智慧學習，
-            特別邀請新北市國高中學生蒞校參與 AI 培訓活動。強化基礎AI認知能力，
-            特舉辦「AI 基礎應用與工具實作研習」，以強化未來招生與學習連結。
+            本校餐旅學院為擴散AI學習視野，擬辦理「AI基礎應用與工具實作研習」，強化基礎AI認知能力。
           </p>
         </section>
 
@@ -59,7 +57,7 @@
               </svg>
             </div>
             <h2 class="text-3xl font-bold text-slate-800">
-              活動流程與議程（3 月 28 日）
+              活動流程與議程（5 月 21 日）
             </h2>
           </div>
 
@@ -74,25 +72,25 @@
               </thead>
               <tbody class="text-slate-700">
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">12:50 – 13:00</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:30</td>
                   <td class="py-4 px-6">報到</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6">罕見 309</td>
                 </tr>
 
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:50</td>
-                  <td class="py-4 px-6">人工智慧基礎概念與AI生成工具介紹<br>蘇金豆教授兼院長/國立臺灣大學化學所理學博士</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">13:30 – 14:20</td>
+                  <td class="py-4 px-6">人工智慧基礎概念與AI生成工具介紹<br>講師：待聘/<br>主持人：蘇金豆教授兼院長</td>
+                  <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
-                  <td class="py-4 px-6 font-medium text-amber-600">13:50 – 14:00</td>
+                  <td class="py-4 px-6 font-medium text-amber-600">14:20 – 14:30</td>
                   <td class="py-4 px-6 text-amber-700">休息</td>
                   <td class="py-4 px-6">-</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">14:00 – 14:50</td>
-                  <td class="py-4 px-6">AI生成工具實務操作練習<br>蘇金豆教授兼院長/國立臺灣大學化學所理學博士</td>
-                  <td class="py-4 px-6">罕見 306</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">14:30 – 15:20</td>
+                  <td class="py-4 px-6">AI生成工具實務操作練習<br>講師：待聘/<br>主持人：蘇金豆教授兼院長</td>
+                  <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
                   <td class="py-4 px-6 font-medium text-green-600">14:50 – 15:00</td>
@@ -102,7 +100,7 @@
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
                   <td class="py-4 px-6 font-medium text-blue-600">15:00 – 16:00</td>
                   <td class="py-4 px-6">發表與頒獎</td>
-                  <td class="py-4 px-6">罕見306</td>
+                  <td class="py-4 px-6">罕見309</td>
                 </tr>
               </tbody>
             </table>
@@ -166,7 +164,7 @@
               <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">5</span>
               </div>
-              <span>報名人數未達20名，將會取消此次活動。</span>
+              <span>報名截止日期: 即日起至中華民國115年5月15日止。</span>
             </li>
           </ul>
         </section>
