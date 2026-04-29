@@ -109,10 +109,10 @@
          rounded-2xl border border-blue-200/50"
 >
   <div class="text-center md:text-left">
-    <p class="text-lg font-semibold text-gray-800">
+    <p class="text-lg font-semibold text-white">
       📞 加入 LINE 官方帳號
     </p>
-    <p class="mt-2 text-gray-600 text-sm">
+    <p class="mt-2 text-white text-sm">
       即時諮詢｜報名協助
     </p>
   </div>

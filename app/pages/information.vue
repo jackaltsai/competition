@@ -72,35 +72,30 @@
               </thead>
               <tbody class="text-slate-700">
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:30</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:10</td>
                   <td class="py-4 px-6">報到</td>
                   <td class="py-4 px-6">罕見 309</td>
                 </tr>
 
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">13:30 – 14:20</td>
-                  <td class="py-4 px-6">人工智慧基礎概念與AI生成工具介紹<br>講師：待聘/<br>主持人：蘇金豆教授兼院長</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">13:10 – 15:30</td>
+                  <td class="py-4 px-6">人工智慧基礎概念與AI生成工具介紹<br>講師：賀嘉生教授/中原大學資訊工程系<br>主持人：蘇金豆教授兼院長</td>
                   <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
-                  <td class="py-4 px-6 font-medium text-amber-600">14:20 – 14:30</td>
+                  <td class="py-4 px-6 font-medium text-amber-600">15:30 – 15:40</td>
                   <td class="py-4 px-6 text-amber-700">休息</td>
                   <td class="py-4 px-6">-</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">14:30 – 15:20</td>
-                  <td class="py-4 px-6">AI生成工具實務操作練習<br>講師：待聘/<br>主持人：蘇金豆教授兼院長</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">15:40 – 16:30</td>
+                  <td class="py-4 px-6">AI生成工具實務應用<br>講師：鄭佩娟副教授/應用英語系<br>主持人：蘇金豆教授兼院長</td>
                   <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
-                  <td class="py-4 px-6 font-medium text-green-600">14:50 – 15:00</td>
-                  <td class="py-4 px-6 text-green-700">休息</td>
+                  <td class="py-4 px-6 font-medium text-green-600">16:30 – 16:40</td>
+                  <td class="py-4 px-6 text-green-700">Q & A 問卷</td>
                   <td class="py-4 px-6">-</td>
-                </tr>
-                <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">15:00 – 16:00</td>
-                  <td class="py-4 px-6">發表與頒獎</td>
-                  <td class="py-4 px-6">罕見309</td>
                 </tr>
               </tbody>
             </table>
@@ -152,7 +147,7 @@
               <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                 <span class="text-white text-sm font-bold">5</span>
               </div>
-              <span>完訓可獲頒 3 小時「AI 基礎應用與工具實作研習證明」</span>
+              <span>完訓可獲頒 4 小時「AI 基礎應用與工具實作研習證明」</span>
             </li>
             <li class="flex items-start gap-3 p-3 bg-indigo-50/50 rounded-lg border border-indigo-100">
               <div class="w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
