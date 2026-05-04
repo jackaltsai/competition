@@ -72,28 +72,28 @@
               </thead>
               <tbody class="text-slate-700">
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:10</td>
-                  <td class="py-4 px-6">報到</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">13:00 – 13:20</td>
+                  <td class="py-4 px-6">報到/校園介紹</td>
                   <td class="py-4 px-6">罕見 309</td>
                 </tr>
 
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">13:10 – 15:30</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">13:20 – 15:40</td>
                   <td class="py-4 px-6">人工智慧基礎概念與AI生成工具介紹<br>講師：賀嘉生教授/中原大學資訊工程系<br>主持人：蘇金豆教授兼院長</td>
                   <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-amber-50/50">
-                  <td class="py-4 px-6 font-medium text-amber-600">15:30 – 15:40</td>
+                  <td class="py-4 px-6 font-medium text-amber-600">15:40 – 15:45</td>
                   <td class="py-4 px-6 text-amber-700">休息</td>
                   <td class="py-4 px-6">-</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors">
-                  <td class="py-4 px-6 font-medium text-blue-600">15:40 – 16:30</td>
+                  <td class="py-4 px-6 font-medium text-blue-600">15:45 – 16:35</td>
                   <td class="py-4 px-6">AI生成工具實務應用<br>講師：鄭佩娟副教授/應用英語系<br>主持人：蘇金豆教授兼院長</td>
                   <td class="py-4 px-6">罕見 309</td>
                 </tr>
                 <tr class="border-b border-slate-200/50 hover:bg-blue-50/50 transition-colors bg-green-50/50">
-                  <td class="py-4 px-6 font-medium text-green-600">16:30 – 16:40</td>
+                  <td class="py-4 px-6 font-medium text-green-600">16:35 – 16:40</td>
                   <td class="py-4 px-6 text-green-700">Q & A 問卷</td>
                   <td class="py-4 px-6">-</td>
                 </tr>
